@@ -1,0 +1,64 @@
+.main
+{
+    background-color: green;
+    
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.contenedor1
+{
+    
+    background-color: greenyellow;
+    
+    display: flex;
+    width: 350px;
+    margin: 15px;
+    flex-wrap: wrap;
+}
+.contenedor2
+{
+    background-color: greenyellow;
+    padding: 10px;
+    display: flex;
+    width: 350px;
+    margin: 15px;
+    flex-wrap: wrap;
+
+    
+}
+.contenedor3
+{
+    background-color: greenyellow;
+    padding: 10px;
+    display: flex;
+    width: 350px;
+    margin: 15px;
+}
+
+.caja1
+{
+    height: 150px;
+    width: 150px;
+    
+    background-color: red;
+    margin: 5px;
+    
+}
+.caja2
+{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    margin: 15px;
+    
+}
+.caja3
+{
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    margin: 15px;
+    
+}
